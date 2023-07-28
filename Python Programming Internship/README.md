@@ -34,3 +34,6 @@ Creating a random password generator using tkinter involves building a graphical
 #### 4. Display the Generated Password: Once the password is generated, display it to the user on the GUI. You can use a label or text widget to show the password.
 
 #### 5. Optional: Add Copy to Clipboard Functionality:To make it more user-friendly, you can add a button that allows the user to copy the generated password to the clipboard so that they can easily paste it elsewhere.
+
+## 5. Weather Forecast application using API
+In this the dataset is taken from Kaggle API and loaded into Python Spyder which which tells the temperature, hummidity and windspeed of a particular city.
