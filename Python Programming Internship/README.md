@@ -24,7 +24,7 @@
 
 Creating a random password generator using tkinter involves building a graphical user interface (GUI) to allow users to customize their passwords and generate random passwords with specified criteria. Here's a brief description of the steps involved:
 
-## 4. Random Password Generator
+## 4. [Random Password Generator](https://github.com/ARPIT422/CODSOFT/blob/main/Python%20Programming%20Internship/Random%20Password%20Generator.py)
 #### 1.Import the Required Libraries: Import the necessary libraries, including tkinter for GUI and other Python modules for generating random passwords.
 
 #### 2. Design the GUI: Use tkinter to design the GUI. Create labels to display password criteria, input fields or dropdowns to customize the password length, checkboxes to select character types (uppercase, lowercase, digits, special characters), and a button to generate the password.
