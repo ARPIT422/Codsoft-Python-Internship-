@@ -7,7 +7,7 @@
 #### 4.User Interface: Create a simple text-based interface to interact with the to-do list. You can use loops and input prompts to receive user commands and display the to-do list accordingly.
 #### 5.Implement the To-Do List: Now, put all the pieces together. Start the program with an empty to-do list and keep it running in a loop until the user decides to quit. Inside the loop, prompt the user for actions (e.g., add, remove, display, quit) and perform the corresponding operations based on their inputs.
 
-## 2. Quiz Game
+## 3. [Quiz Game](https://github.com/ARPIT422/CODSOFT/blob/main/Python%20Programming%20Internship/Quiz%20Game.py)
 ### Creating an MCQ (Multiple Choice Question) quiz game using the tkinter library in Python involves building a graphical user interface (GUI) to display questions, options, and track the user's answers. Here's a brief description of the steps involved:
 
 #### 1. Import the Required Libraries: First, import the necessary libraries. You'll need tkinter for creating the GUI and other standard Python modules for handling the quiz logic.
