@@ -1,3 +1,6 @@
+# creating Weather Forecast Application using APT
+# In it Kaggle API is used
+
 #import necessary libraries
 import kaggle
 import os
