@@ -1,3 +1,5 @@
+#Creating a QUIZ GAME
+
 #importing necessary libraries
 import tkinter as tk
 import sqlite3 as sql
