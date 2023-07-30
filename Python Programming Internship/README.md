@@ -27,7 +27,10 @@ Creating a simple calculator in Python using the Tkinter library involves buildi
 
 Creating a random password generator using tkinter involves building a graphical user interface (GUI) to allow users to customize their passwords and generate random passwords with specified criteria. Here's a brief description of the steps involved:
 
-## 4. [Random Password Generator](https://github.com/ARPIT422/CODSOFT/blob/main/Python%20Programming%20Internship/Random%20Password%20Generator.py)
+## 4. [Weather Forecast Application](https://github.com/ARPIT422/CODSOFT/tree/main/Python%20Programming%20Internship/Weather%20Forecasting%20Application)
+In this the dataset is taken from Kaggle API and loaded into Python Spyder which which tells the temperature, hummidity and windspeed of a particular city.
+
+## 5. [Random Password Generator](https://github.com/ARPIT422/CODSOFT/blob/main/Python%20Programming%20Internship/Random%20Password%20Generator.py)
 #### 1.Import the Required Libraries: Import the necessary libraries, including tkinter for GUI and other Python modules for generating random passwords.
 
 #### 2. Design the GUI: Use tkinter to design the GUI. Create labels to display password criteria, input fields or dropdowns to customize the password length, checkboxes to select character types (uppercase, lowercase, digits, special characters), and a button to generate the password.
@@ -38,5 +41,3 @@ Creating a random password generator using tkinter involves building a graphical
 
 #### 5. Optional: Add Copy to Clipboard Functionality:To make it more user-friendly, you can add a button that allows the user to copy the generated password to the clipboard so that they can easily paste it elsewhere.
 
-## 5. [Weather Forecast Application](https://github.com/ARPIT422/CODSOFT/tree/main/Python%20Programming%20Internship/Weather%20Forecasting%20Application)
-In this the dataset is taken from Kaggle API and loaded into Python Spyder which which tells the temperature, hummidity and windspeed of a particular city.
