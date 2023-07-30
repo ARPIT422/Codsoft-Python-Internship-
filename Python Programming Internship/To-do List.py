@@ -1,3 +1,5 @@
+# Creating a To-do List
+
 import tkinter as tk
 import sqlite3 as sql
 from tkinter import ttk
