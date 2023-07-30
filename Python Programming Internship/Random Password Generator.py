@@ -1,3 +1,5 @@
+#Creating a RANDOM PASSWORD GENERATOR
+
 import random as rns
 import tkinter as tk
 import sqlite3 as sql
