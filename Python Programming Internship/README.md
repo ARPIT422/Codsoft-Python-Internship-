@@ -7,7 +7,7 @@
 #### 4.User Interface: Create a simple text-based interface to interact with the to-do list. You can use loops and input prompts to receive user commands and display the to-do list accordingly.
 #### 5.Implement the To-Do List: Now, put all the pieces together. Start the program with an empty to-do list and keep it running in a loop until the user decides to quit. Inside the loop, prompt the user for actions (e.g., add, remove, display, quit) and perform the corresponding operations based on their inputs.
 
-## 2 Calculator
+## 2 [Calculator](https://github.com/ARPIT422/CODSOFT/blob/main/Python%20Programming%20Internship/Calculator.py)
 Creating a simple calculator in Python using the Tkinter library involves building a graphical user interface (GUI) for the calculator and implementing the functionality for basic arithmetic operations. 
 
 ## 3. [Quiz Game](https://github.com/ARPIT422/CODSOFT/blob/main/Python%20Programming%20Internship/Quiz%20Game.py)
